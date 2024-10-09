@@ -35,7 +35,7 @@ Instalação no Ubuntu/Debian:
 
     sudo apt-get install libjson-c-dev
 
-## 4. Make (Opcional)
+### 4. Make (Opcional)
 
 Se quiser automatizar a compilação do código, o uso de Make pode facilitar o processo.
 
